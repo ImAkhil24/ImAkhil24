@@ -34,5 +34,5 @@ Myself Akhil Badoni, a <b>Competitive Programmer</b>, <b> Web Developer </b> pur
   
 ### :handshake: **Let's Connect At-**
   
-[![Linkedin Badge](https://img.shields.io/badge/-Akhil%20Badoni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[[[[https://www.linkedin.com/in/sushant-basak-29928b190/](https://www.linkedin.com/in/akhil-badoni/)](https://www.linkedin.com/in/akhil-badoni/)](https://www.linkedin.com/in/akhil-badoni/)](https://www.linkedin.com/in/akhil-badoni/))]([https://www.linkedin.com/in/sushant-basak-29928b190/](https://www.linkedin.com/in/akhil-badoni/))
+[![Linkedin Badge](https://img.shields.io/badge/-Akhil%20Badoni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akhil-badoni/)](https://www.linkedin.com/in/akhil-badoni/)
 [![Gmail Badge](https://img.shields.io/badge/-akhilbadoni24@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akhilbadoni24@gmail.com)](mailto:akhilbadoni24@gmail.com)
